@@ -10,5 +10,9 @@ Here are some ideas to get you started:
 -->
 
 My name is Melques Santos Paiva, i'm brazillian and i've been working with software development for 6 years. <br/>
-  Front-end Skills: <br/> HTML5 - CSS3 - VueJs - Bootstrap
-  Back-end Skills: <br/>  PHP - Mysql - MariaDb - NoSql - Golang
+```
+  Front-end Skills:
+  - HTML5 - CSS3 - VueJs - Bootstrap
+  Back-end Skills:
+  - PHP - Mysql - MariaDb - NoSql - Golang
+```
